@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👩‍💻 Aarya Meshram
 
-<!--
-**AARYAMESHRAM2002/AARYAMESHRAM2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 *Aspiring Data Analyst | Python & SQL Enthusiast | Excel & Power BI Learner*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+
+Hi! I'm **Aarya Meshram**, an enthusiastic learner passionate about exploring data and turning it into actionable insights. I love working with tools like **Excel, SQL, Python**, and **Power BI** to solve problems and visualize patterns. I'm currently focused on building real-world analytics projects and strengthening my data skills.
+
+---
+
+## 🔧 Skills
+
+* **Languages & Tools:** Python, MySQL, SQLite
+* **Analytics Platforms:** Power BI, Excel (Pivot Tables, Charts, Functions)
+* **Other Tools:** Git & GitHub, Jupyter Notebook
+* **Soft Skills:** Problem-solving, Detail-oriented, Team collaboration
+
+---
+
+## 💼 Projects
+
+* **📊 E-commerce Sales Dashboard** – Built insightful dashboards using Power BI & Excel
+* **📁 Contact Book System** – Created using Python and MySQL
+* **📈 HR Data Analysis** – Extracted key metrics using SQL queries
+* **🎓 Student Record Manager** – Python-based project with SQLite integration
+* **📊 Excel Dashboards** – Visual reports using formulas and interactive charts
+
+📂 *Explore more projects → [GitHub Profile](https://github.com/AARYAMESHRAM2002)*
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Excel Functions & Charts
+* Power BI Data Storytelling
+* SQL Case Studies & Real-world Scenarios
+
+---
+
+## 📫 Let's Connect
+
+* 💼 LinkedIn: [aarya-meshram](https://www.linkedin.com/in/aarya-meshram)
+* 📧 Email: [aaryameshram18@gmail.com](mailto:aaryameshram18@gmail.com)
+* 🧠 GitHub: [AARYAMESHRAM2002](https://github.com/AARYAMESHRAM2002)
+
